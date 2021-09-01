@@ -1,7 +1,8 @@
 ## Olá, me chamo Thiago.
 
 - 🌱 Estou atualmente estudando javascript, html e css
-- 😄 Pronomes: Ele/Dele
+- 😄 Pronomes: Ele/Dele.
+- 🔍 Buscando: Oportunidades.
 
 ### Meu Status
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagobz&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
