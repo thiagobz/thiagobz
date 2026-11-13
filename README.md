@@ -1,7 +1,5 @@
 ## Olá, me chamo Thiago.
 
-- 🌱 Estou atualmente estudando javascript, html e css
-- 😄 Pronomes: Ele/Dele.
 - 🔍 Buscando: Oportunidades.
 - 📚 Cursando: SENAI *Programador Fullstack*
 
